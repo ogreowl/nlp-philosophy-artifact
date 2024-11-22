@@ -1,7 +1,0 @@
-{
-  "Voila": {
-    "defaultNbconvertExporter": "voila.exporters.VoilaExporter",
-    "strip_sources": true,
-    "template": "basic"
-  }
-}
