@@ -1,5 +1,0 @@
-pandas
-matplotlib
-ipywidgets
-numpy
-voila
