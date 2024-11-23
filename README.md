@@ -67,4 +67,4 @@ The following papers have informed the techniques & methodology of this project:
 All data was downloaded from Project Gutenberg, a free provider of digital books within the public domain: https://www.gutenberg.org/
 
 <h2>About the Authors</h2>
-This research is primarily developed by Bobby Becker within the Tulane University computer science department under the supervision of Dr. Aron Culotta. We aim to contribute to the Digital Humanities, a growing field that uses computational methods to study subjects within the humanities. The best way to contact us is at bobbybeckerdev@gmail.com.
+This research is primarily developed by Bobby Becker under the supervision of Dr. Aron Culotta at Tulane University. You can contact us at bobbybeckerdev@gmail.com.
