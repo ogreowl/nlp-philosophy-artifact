@@ -6,7 +6,7 @@ This repository contains code, visualizations, and analysis from applying natura
 <h2>Current Files</h2>
 
 **Interactive Tools:**
-* artifact.ipynb: An interactive tool that visualizes the citation network of all philosophers within our database. Our most recent version is accessible to anyone through a public Google Colab file: https://drive.google.com/file/d/10WSpHmoNz_bt8gjRz9YhbcNOIerAQlzP/view?usp=sharing
+* artifact.ipynb: An interactive tool that visualizes the citation network of all philosophers within our database. Our most recent version is through a public Google Colab file: https://drive.google.com/file/d/10WSpHmoNz_bt8gjRz9YhbcNOIerAQlzP/view?usp=sharing
 * helpers.py: Supporting functions for the interactive visualization
 
 **Data Collection & Processing**
@@ -27,6 +27,21 @@ This repository contains code, visualizations, and analysis from applying natura
 * cleaner.ipynb: Efforts to eliminate false references to reduce noise
 
 **Extended Research**
-* llm_philosophy_network/: EDA of outputs obtained through iteratively prompting Large Language Models to reference philosophers. Preliminary research can be found here:
-* subset_analysis/: Analysis of currated philosophy texts
+* llm_philosophy_network/: EDA of outputs obtained through iteratively prompting Large Language Models to reference philosophers. Preliminary research of this kind can be found here:
+* subset_analysis/: Analysis of curated philosophy texts
+
+<h2>About the Authors</h2>
+This research is primarily developed by Bobby Becker within the Tulane University computer science department under the supervision of Dr. Aron Culotta. We aim to contribute to the Digital Humanities, a growing field that uses computational methods to study subjects within the humanities. You can contact us at bobbybeckerdev@gmail.com.
+
+<h2>Recourses</h2>
+
+**Tools**
+> BERT
+> BART
+> LDA
+> NetworkX
+
+**Related Works**
+
+**Data**
 
