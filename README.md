@@ -5,7 +5,7 @@ This project applies natural language processing & network analysis to study cit
 
 <h2>Current Files</h2>
 
-**Interactive Tools:**
+**Artifact:**
 * artifact.ipynb: An interactive tool that visualizes the citation network of all philosophers within our database. Our most recent version is publicly accessible through Google Colab: https://drive.google.com/file/d/10WSpHmoNz_bt8gjRz9YhbcNOIerAQlzP/view?usp=sharing
 * helpers.py: Supporting functions for the interactive visualization
 
@@ -13,10 +13,12 @@ This project applies natural language processing & network analysis to study cit
 
 * scraper.py: Downloads our data using Gutenberg API
 * reference_fetcher.py: Generates Dataframe of the citation network
-* topic_classifier.py: classifies references into predefined philosophical topics
+* classifier.ipynb: classifies references into predefined philosophical topics
+* test_classifier.ipynb: runs our reference collection on a smaller scale
+* data_cleaning.ipynb: preliminary cleaning of our data to reduce noise
 
 **Development**
-* draftwork/: Development scripts & prototypes
+* draftscripts/: Development scripts & prototypes
 * draftimages/: Preliminary visualizations
 
 <h2>Planned Additions</h2>
