@@ -1,11 +1,15 @@
 <h1>Philosophy Text Analysis Project</h1>
 
 <h2>Overview</h2>
-This project applies natural language processing and network analysis techniques to study citation patterns and philosophical discourse across 500+ classic philosophy texts. Through our research, we aim to:
+This project applies natural language processing and network analysis techniques to study citation patterns and philosophical discourse across 500+ classic philosophy texts. Through computational techniques, we aim to:
+
 - Generate and visualize citation networks between philosophical works
+  
 - Classify philosophical topics and themes
-- Analyze relationships between texts using modern NLP methods
-- Explore the evolution of philosophical ideas through quantitative methods
+  
+- Analyze relationships between texts
+  
+- Explore the evolution of philosophical ideas
 
 <h2>Current Files</h2>
 
