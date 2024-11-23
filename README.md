@@ -41,6 +41,7 @@ This research is primarily developed by Bobby Becker within the Tulane Universit
 * NetworkX: https://networkx.org/
 
 **Related Research**
+
 The following papers have informed the techniques & methodology of this project:
 
 * Fractality of sentiment arcs for literary quality assessment
@@ -65,5 +66,7 @@ The following papers have informed the techniques & methodology of this project:
 > https://www.digitalhumanities.org/dhq/vol/17/3/000703/000703.html
 
 **Data**
+
 The data for this project was downloaded from Project Gutenberg, a provider of digital books within the public domain
+
 https://www.gutenberg.org/
