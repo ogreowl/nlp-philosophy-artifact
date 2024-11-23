@@ -1,7 +1,11 @@
 <h1>Philosophy Text Analysis Project</h1>
 
 <h2>Overview</h2>
-This repository contains code, visualizations, and analysis from applying natural language processing tools to 500+ philosophy books. Our tools analyze citation patterns, classify philosophical topics, and explore relationships between philosophical works through various computational methods.
+This project applies natural language processing and network analysis techniques to study citation patterns and philosophical discourse across 500+ classic philosophy texts. Through our research, we aim to:
+- Generate and visualize citation networks between philosophical works
+- Classify philosophical topics and themes
+- Analyze relationships between texts using modern NLP methods
+- Explore the evolution of philosophical ideas through quantitative methods
 
 <h2>Current Files</h2>
 
@@ -29,9 +33,6 @@ This repository contains code, visualizations, and analysis from applying natura
 **Extended Research**
 * llm_philosophy_network/: EDA of outputs obtained through iteratively prompting Large Language Models to reference philosophers. Our preliminary research can be found here:
 * subset_analysis/: Analysis of curated philosophy texts
-
-<h2>About the Authors</h2>
-This research is primarily developed by Bobby Becker within the Tulane University computer science department under the supervision of Dr. Aron Culotta. We aim to contribute to the Digital Humanities, a growing field that uses computational methods to study subjects within the humanities. You can contact us at bobbybeckerdev@gmail.com.
 
 <h2>Recourses</h2>
 
@@ -70,3 +71,6 @@ The following papers have informed the techniques & methodology of this project:
 The data for this project was downloaded from Project Gutenberg, a provider of digital books within the public domain
 
 https://www.gutenberg.org/
+
+<h2>About the Authors</h2>
+This research is primarily developed by Bobby Becker within the Tulane University computer science department under the supervision of Dr. Aron Culotta. We aim to contribute to the Digital Humanities, a growing field that uses computational methods to study subjects within the humanities. You can contact us at bobbybeckerdev@gmail.com.
