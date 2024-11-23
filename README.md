@@ -6,7 +6,7 @@ This project applies natural language processing & network analysis to study cit
 <h2>Current Files</h2>
 
 **Interactive Tools:**
-* artifact.ipynb: An interactive tool that visualizes the citation network of all philosophers within our database. Our most recent version is through a public Google Colab file: https://drive.google.com/file/d/10WSpHmoNz_bt8gjRz9YhbcNOIerAQlzP/view?usp=sharing
+* artifact.ipynb: An interactive tool that visualizes the citation network of all philosophers within our database. Our most recent version is publicly accessible through Google Colab: https://drive.google.com/file/d/10WSpHmoNz_bt8gjRz9YhbcNOIerAQlzP/view?usp=sharing
 * helpers.py: Supporting functions for the interactive visualization
 
 **Data Collection & Processing**
